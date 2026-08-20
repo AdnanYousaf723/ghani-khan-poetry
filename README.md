@@ -11,7 +11,7 @@ This version follows the Stitch prototype direction:
 - poem cards with source scan on one side and poem music on the other
 - Pashto, spoken Roman Pashto, and English columns
 - a separate Music Room for all available recordings
-- complete Music Room coverage for all 21 poems, including poems with no song yet
+- including poems with no song yet
 
 ## Run locally
 
